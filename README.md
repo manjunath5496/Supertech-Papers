@@ -274,7 +274,7 @@
 <td align="left"><strong><a id="DaileyLe02" name="DaileyLe02"></a>Using Cilk to Write Multiprocessor Chess Programs</strong><br />by Don Dailey and Charles E. Leiserson<br /><em>The Journal of the International Computer Chess Association</em>, 2002<br /><strong>Download the paper:&nbsp;</strong><a href="icca99.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
 <tr>
-<td align="left"><strong><a id="cilk532referencemanual" name="cilk532referencemanual"></a>Cilk 5.4.6 Reference Manual</strong><br />November, 2001<br /><strong>Download the paper:&nbsp;</strong><a href="http://supertech.lcs.mit.edu/cilk/manual-5.4.6.pdf">pdf format</a><br /><br /><hr /></td>
+<td align="left"><strong><a id="cilk532referencemanual" name="cilk532referencemanual"></a>Cilk 5.4.6 Reference Manual</strong><br />November, 2001<br /><strong>Download the paper:&nbsp;</strong><a href="manual-5.4.6.pdf">pdf format</a><br /><br /><hr /></td>
 </tr>
 <tr>
 <td align="left"><strong><a id="BenderRa00" name="BenderRa00"></a>Scheduling Cilk Multithreaded Parallel Programs on Processors of Different Speeds</strong><br />by M. A. Bender and M. O. Rabin<br /><em>Proceedings of the twelfth annual ACM symposium on Parallel algorithms and architectures</em><br />Pages: 13&ndash;21<br />July, 2000<br /><strong>Download the paper:&nbsp;</strong><a href="spaa00-heterogeneous.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
