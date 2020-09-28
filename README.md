@@ -1,6 +1,5 @@
 <p><strong>Supertech</strong>&nbsp;is a research group in&nbsp;<a class="external text" title="http://www.mit.edu/" href="http://www.mit.edu/">MIT's</a>&nbsp;<a class="external text" title="http://csail.mit.edu" href="http://csail.mit.edu/">Computer Science and Artificial Intelligence Laboratory</a>. The Supertech Research Group investigates the technologies that support scalable high-performance computing, including hardware, software, and theory. The goal is to make scalable computing simpler, faster, and more effective. The group is currently engaged in developing tools to simplify parallel computing, such as the Cilk multithreaded programming platform and its related tools for programmer productivity. In addition, we are developing parallel applications, focusing in particular on irregular problems such as graph applications. The group also studies adaptive computing, race detection, and cache-oblivious algorithms.</p>
-
-<h2> Papers List </h2>
+<h2>Papers List</h2>
 <table border="0" width="90%" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
@@ -46,9 +45,6 @@
 <td align="left"><strong><a id="HaiderHaAl16" name="HaiderHaAl16"></a>Lease/Release: Architectural Support for Scaling Contended Data Structures</strong><br />by Syed Kamran Haider, William Hasenplaugh, and Dan Alistarh<br /><em>PPoPP '16: Proceedings of the 21st ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming</em><br />March, 2016<br /><strong>Download the paper:&nbsp;</strong><a href="HaiderHaAl16.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
 <tr>
-<td align="left"><strong><a id="Kamali16" name="Kamali16"></a>Compact Navigation Oracles for Graphs with Bounded Clique-Width</strong><br />by Shahin Kamali<br /><em>Data Compression Conference</em><br />March, 2016<br /><br /><hr /></td>
-</tr>
-<tr>
 <td align="left"><strong><a id="Hasenplaugh16" name="Hasenplaugh16"></a>Parallel Algorithms for Scheduling Data-Graph Computations</strong><br />by William Hasenplaugh<br />Ph.D. Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology<br />February, 2016<br /><strong>Download the paper:&nbsp;</strong><a href="Hasenplaugh16.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
 <tr>
@@ -83,9 +79,6 @@
 </tr>
 <tr>
 <td align="left"><strong><a id="HasenplaughNgSh15" name="HasenplaughNgSh15"></a>Quantifying the Capactiy Limitations of Hardware Transactional Memory</strong><br />by William Hasenplaugh, Andrew T. Nguyen, and Nir Shavit<br /><em>7th Workshop on the Theory of Transactional Memory</em><br />July, 2015<br /><strong>Download the paper:&nbsp;</strong><a href="HasenplaughNgSh15.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
-</tr>
-<tr>
-<td align="left"><strong><a id="AlistarhHa15" name="AlistarhHa15"></a>Anatomy of a Meltdown: Non-Block Performance under High Contention</strong><br />by Dan Alistarh and William Hasenplaugh<br /><em>10th ACM SIGPLAN Workshop on Transactional Computing</em><br />June, 2015<br /><br /><hr /></td>
 </tr>
 <tr>
 <td align="left"><strong><a id="Kuszmaul15" name="Kuszmaul15"></a>SuperMalloc: A Super Fast Multithreaded malloc for 64-bit Machines</strong><br />by Bradley C. Kuszmaul<br /><em>Proceedings of the 2015 International Symposium on Memory Management</em><br />Pages: 41&ndash;55<br />June, 2015<br /><strong>Download the paper:&nbsp;</strong><a href="Kuszmaul15.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
@@ -176,9 +169,6 @@
 </tr>
 <tr>
 <td align="left"><strong><a id="AgrawalLeSu09" name="AgrawalLeSu09"></a>Safe Open-Nested Transactions Through Ownership</strong><br />by Kunal Agrawal, I-Ting Angelina Lee, and Jim Sukha<br /><em>Proceedings of the 14th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP)</em><br />February, 2009<br /><strong>Download the paper:&nbsp;</strong><a href="oat-ppopp09.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
-</tr>
-<tr>
-<td align="left"><strong><a id="AgrawalLeHe08" name="AgrawalLeHe08"></a>Adaptive Work-stealing with Parallelism Feedback</strong><br />by Kunal Agrawal, Charles E. Leiserson, Yuxiong He, and Wen Jing Hsu<br /><em>ACM Transactions on Computing Systems</em>, 7:1&ndash;7:32, September, 2008<br /><br /><hr /></td>
 </tr>
 <tr>
 <td align="left"><strong><a id="AgrawalLeSu08" name="AgrawalLeSu08"></a>Safe Open-Nested Transactions Through Ownership</strong><br />by Kunal Agrawal, I-Ting Angelina Lee, and Jim Sukha<br />Technical Report MIT-CSAIL-TR-2008-038, Massachusetts Institute of Technology Computer Science and Artificial Intelligence Laboratory<br />June, 2008<br /><strong>Download the paper:&nbsp;</strong><a href="safe-tech.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
@@ -301,12 +291,6 @@
 <td align="left"><strong><a id="Frigo99a" name="Frigo99a"></a>A Fast Fourier Transform Compiler</strong><br />by Matteo Frigo<br /><em>Proceedings of the ACM SIGPLAN'99 Conference on Programming Language Design and Implementation (PLDI)</em><br />May, 1999<br /><strong>Download the paper:&nbsp;</strong><a href="pldi99.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
 <tr>
-<td align="left"><strong><a id="Frigo99b" name="Frigo99b"></a>A Fast Fourier Transform Compiler</strong><br />by Matteo Frigo<br /><em>ACM SIGPLAN Notices</em>, 169&ndash;180, May, 1999<br /><br /><hr /></td>
-</tr>
-<tr>
-<td align="left"><strong><a id="FengLe99" name="FengLe99"></a>Efficient Detection of Determinacy Races in Cilk Programs</strong><br />by Mingdong Feng and Charles E. Leiserson<br /><em>Theory of Computing Systems</em>, 301&ndash;326, 1999<br />A preliminary version appeared as \citeFengLe97..<br /><br /><hr /></td>
-</tr>
-<tr>
 <td align="left"><strong><a id="Cheng98" name="Cheng98"></a>Algorithms for Data-Race Detection in Multithreaded Programs</strong><br />by Guang-Ien Cheng<br />Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science<br />June, 1998<br /><strong>Download the paper:&nbsp;</strong><a href="cheng-thesis.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
 <tr>
@@ -346,29 +330,19 @@
 <td align="left"><strong><a id="Song98" name="Song98"></a>Scheduling Adaptively Parallel Jobs</strong><br />by Bin Song<br />Master's Thesis, Massachusetts Institute of Technology Department of Electrical Engineering and Computer Science<br />January, 1998<br /><strong>Download the paper:&nbsp;</strong><a href="bsong-msthesis.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
 <tr>
-<td align="left"><strong><a id="FrigoJo98" name="FrigoJo98"></a>FFTW: An Adaptive Software Architecture for the FFT</strong><br />by Matteo Frigo and Steven G. Johnson<br /><em>Proceedings of the International Conference on Acoustics, Speech, and Signal Processing</em><br />Pages: 1381&ndash;1384<br />1998<br /><br /><hr /></td>
-</tr>
-<tr>
-<td align="left"><strong><a id="LeisersonPr98" name="LeisersonPr98"></a>A Minicourse on Multithreaded Programming</strong><br />by Charles E. Leiserson and Harald Prokop<br />1998<br />Available on the Internet from \urlhttp://theory.lcs.mit.edu/&nbsp;cilk.<br /><strong>Download the paper:&nbsp;</strong><a href="minicourse.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
+<td align="left"><strong><a id="LeisersonPr98" name="LeisersonPr98"></a>A Minicourse on Multithreaded Programming</strong><br />by Charles E. Leiserson and Harald Prokop<br />1998<br /><strong>Download the paper:&nbsp;</strong><a href="minicourse.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
 <tr>
 <td align="left"><strong><a id="Strumpen98" name="Strumpen98"></a>Compiler Technology for Portable Checkpoints</strong><br />by V. Strumpen<br />1998<br /><strong>Download the paper:&nbsp;</strong><a href="porch.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
-
 <tr>
 <td align="left"><strong><a id="FengLe97" name="FengLe97"></a>Efficient Detection of Determinacy Races in Cilk Programs</strong><br />by Mingdong Feng and Charles E. Leiserson<br /><em>Proceedings of the Ninth Annual ACM Symposium on Parallel Algorithms and Architectures (SPAA)</em><br />Pages: 1&ndash;11<br />June 22&ndash;25, 1997<br /><strong>Download the paper:&nbsp;</strong><a href="spbags.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
-</tr>
-<tr>
-<td align="left"><strong><a id="Leiserson97" name="Leiserson97"></a>Programming Irregular Parallel Applications In Cilk</strong><br />by Charles E. Leiserson<br /><em>Solving Irregularly Structured Problems in Parallel: 4th International Symposium (IRREGULAR'97)</em><br />Pages: 61&ndash;71<br />June, 1997<br /><br /><hr /></td>
 </tr>
 <tr>
 <td align="left"><strong><a id="BlumofeLi97" name="BlumofeLi97"></a>Adaptive and Reliable Parallel Computing on Networks of Workstations</strong><br />by Robert D. Blumofe and Philip A. Lisiecki<br /><em>Proceedings of the USENIX 1997 Annual Technical Conference on UNIX and Advanced Computing Systems</em><br />Pages: 133&ndash;147<br />January, 1997<br /><strong>Download the paper:&nbsp;</strong><a href="USENIX97.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
 <tr>
 <td align="left"><strong><a id="FrigoJo97" name="FrigoJo97"></a>The Fastest Fourier Transform in the West</strong><br />by Matteo Frigo and Steven G. Johnson<br />Technical Report MIT/LCS/TR-728, Massachusetts Institute of Technology Laboratory for Computer Science<br />1997<br /><strong>Download the paper:&nbsp;</strong><a href="fftw-paper.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
-</tr>
-<tr>
-<td align="left"><strong><a id="LeisersonRa97" name="LeisersonRa97"></a>Parallel algorithms for the circuit value update problem</strong><br />by Charles E. Leiserson and Keith H. Randall<br /><em>Theory of Computing Systems</em>, 583&ndash;597, 1997<br /><br /><hr /></td>
 </tr>
 <tr>
 <td align="left"><strong><a id="RamkumarSt97" name="RamkumarSt97"></a>Portable Checkpointing for Heterogeneous Architectures</strong><br />by Balkrishna Ramkumar and Volker Strumpen<br /><em>Symposium on Fault-Tolerant Computing</em><br />Pages: 58&ndash;67<br />1997<br /><strong>Download the paper:&nbsp;</strong><a href="ftcs27.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
@@ -407,34 +381,19 @@
 <td align="left"><strong><a id="JoergKu94" name="JoergKu94"></a>Massively Parallel Chess</strong><br />by Chris Joerg and Bradley C. Kuszmaul<br /><em>Proceedings of the Third DIMACS Parallel Implementation Challenge</em><br />October 17&ndash;19, 1994<br /><strong>Download the paper:&nbsp;</strong><a href="dimacs94.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
 <tr>
-<td align="left"><strong><a id="HalbherrZhJo94" name="HalbherrZhJo94"></a>MIMD-Style Parallel Programming with Continuation-Passing Threads</strong><br />by Michael Halbherr, Yuli Zhou, and Chris F. Joerg<br /><em>Proceedings of the 2nd International Workshop on Massive Parallelism: Hardware, Software, and Applications</em><br />September, 1994<br /><br /><hr /></td>
-</tr>
-<tr>
 <td align="left"><strong><a id="BlumofePa94" name="BlumofePa94"></a>Scheduling Large-Scale Parallel Computations on Networks of Workstations</strong><br />by Robert D. Blumofe and David S. Park<br /><em>Proceedings of the Third International Symposium on High Performance Distributed Computing (HPDC)</em><br />Pages: 96&ndash;105<br />August, 1994<br /><strong>Download the paper:&nbsp;</strong><a href="hpdc94.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
 <tr>
 <td align="left"><strong><a id="Kuszmaul94" name="Kuszmaul94"></a>Synchronized MIMD Computing</strong><br />by Bradley C. Kuszmaul<br />Ph.D. Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology<br />May, 1994<br />Available as MIT Laboratory for Computer Science Technical Report MIT/LCS/TR-645..<br /><strong>Download the paper:&nbsp;</strong><a href="thesis-kuszmaul.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
 <tr>
-<td align="left"><strong><a id="BrewerKu94" name="BrewerKu94"></a>How to Get Good Performance from the CM-5 Data Network</strong><br />by Eric A. Brewer and Bradley C. Kuszmaul<br /><em>Proceedings of the 8th International Parallel Processing Symposium</em><br />Pages: 858&ndash;867<br />April, 1994<br /><br /><hr /></td>
-</tr>
-<tr>
 <td align="left"><strong><a id="BrewerBl94" name="BrewerBl94"></a>Strata: A Multi-Layer Communications Library</strong><br />by Eric A. Brewer and Robert Blumofe<br />1994<br />MIT Laboratory for Computer Science. Available as \ttfamily ftp://ftp.lcs.mit.edu/pub/supertech/strata/strata.tar.Z.<br /><strong>Download the paper:&nbsp;</strong><a href="strata.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
-</tr>
-<tr>
-<td align="left"><strong><a id="BlumofeLe93" name="BlumofeLe93"></a>Space-Efficient Scheduling of Multithreaded Computations</strong><br />by Robert D. Blumofe and Charles E. Leiserson<br /><em>Proceedings of the Twenty Fifth Annual ACM Symposium on Theory of Computing</em><br />Pages: 362&ndash;371<br />May, 1993<br /><br /><hr /></td>
 </tr>
 <tr>
 <td align="left"><strong><a id="Blumofe92" name="Blumofe92"></a>Managing Storage for Multithreaded Computations</strong><br />by Robert D. Blumofe<br />Master's Thesis, Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology<br />September, 1992<br />Also available as MIT Laboratory for Computer Science Technical Report MIT/LCS/TR-552..<br /><strong>Download the paper:&nbsp;</strong><a href="msthesis.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
 <tr>
-<td align="left"><strong><a id="LeisersonAbDo92" name="LeisersonAbDo92"></a>The Network Architecture of the Connection Machine CM-5</strong><br />by Charles E. Leiserson, Zahi S. Abuhamdeh, David C. Douglas, Carl R. Feynman, Mahesh N. Ganmukhi, Jeffrey V. Hill, W. Daniel Hillis, Bradley C. Kuszmaul, Margaret A. St. Pierre, David S. Wells, Monica C. Wong, Shaw-Wen Yang, and Robert Zak<br /><em>Proceedings of the Fourth Annual ACM Symposium on Parallel Algorithms and Architectures</em><br />Pages: 272&ndash;285<br />June, 1992<br /><br /><hr /></td>
-</tr>
-<tr>
 <td align="left"><strong><a id="FriedKu88" name="FriedKu88"></a>NAP (No ALU Processor): The Great Communicator</strong><br />by Jeff Fried and Bradley C. Kuszmaul<br /><em>The Second Symposium on the Frontiers of Massively Parallel Computation (Frontiers '88)</em><br />Pages: 383&ndash;389<br />1988<br /><strong>Download the paper:&nbsp;</strong><a href="FriedKu88.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
-</tr>
-<tr>
-<td align="left"><strong><a id="LeisersonMeNe86" name="LeisersonMeNe86"></a>Solving Sparse Linear Systems via Parallel Nested Dissection on the Connection Machine</strong><br />by Charles E. Leiserson, Jill P. Mesirov, Lena Nekludova, Stephen M. Omohundro, and John Reif<br /><em>SIAM 1986 National Meeting</em><br />July, 1986</td>
 </tr>
 </tbody>
 </table>
