@@ -354,9 +354,7 @@
 <tr>
 <td align="left"><strong><a id="Strumpen98" name="Strumpen98"></a>Compiler Technology for Portable Checkpoints</strong><br />by V. Strumpen<br />1998<br /><strong>Download the paper:&nbsp;</strong><a href="porch.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
-<tr>
-<td align="left"><strong><a id="AdkinsBaDa98" name="AdkinsBaDa98"></a>Cilk Pousse</strong><br />by Dan Adkins, Reid Barton, Don Dailey, Matteo Frigo, Chris Joerg, Charles Leiserson, Harald Prokop, and Martin Rinard<br />1998<br />Winner of the 1998 ICFP Programming Contest.<br /><strong>Download the paper:&nbsp;</strong><a href="http://supertech.lcs.mit.edu/~pousse">URL</a><br /><br /><hr /></td>
-</tr>
+
 <tr>
 <td align="left"><strong><a id="FengLe97" name="FengLe97"></a>Efficient Detection of Determinacy Races in Cilk Programs</strong><br />by Mingdong Feng and Charles E. Leiserson<br /><em>Proceedings of the Ninth Annual ACM Symposium on Parallel Algorithms and Architectures (SPAA)</em><br />Pages: 1&ndash;11<br />June 22&ndash;25, 1997<br /><strong>Download the paper:&nbsp;</strong><a href="spbags.pdf">pdf format</a>&nbsp;<br /><br /><hr /></td>
 </tr>
